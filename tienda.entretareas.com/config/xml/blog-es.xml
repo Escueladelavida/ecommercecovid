@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>¿Qué es la  segmentación de clientes y cómo te ayuda a aumentar el tráfico y las conversiones?</title>
+    <link>https://www.prestashop.com/es/blog/segmentacion-de-clientes</link>
+    <description>¿Segmentación de clientes? Si no sabes aún de qué te hablo, pero estás buscando estrategias para aumentar el tráfico y las conversiones en tu tienda, aquí te ofrecemos 5 consejos p</description>
+     <pubDate>Thu, 25 Jun 2020 18:11:52 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/segmentacion-de-clientes</guid>
+  </item>
+  <item>
+    <title>El futuro del eCommerce: la persona antes que los datos</title>
+    <link>https://www.prestashop.com/es/blog/futuro-ecommerce</link>
+    <description>¿Te has planteado cuál es el futuro del eCommerce en la actualidad, sobre todo tras una situación como la que hemos vivido recientemente?</description>
+     <pubDate>Thu, 25 Jun 2020 06:57:07 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/futuro-ecommerce</guid>
+  </item>
+  <item>
+    <title>¿Cómo empezar a vender en Marketplaces los productos de tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/como-vender-en-marketplaces</link>
+    <description>¿Tienes claro ya que quieres comenzar a vender tus productos en un Marketplace?</description>
+     <pubDate>Tue, 23 Jun 2020 18:09:36 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/como-vender-en-marketplaces</guid>
+  </item>
+  <item>
+    <title>La segunda venta: ¿qué acciones llevar a cabo tras la primera venta en mi negocio?</title>
+    <link>https://www.prestashop.com/es/blog/segunda-venta</link>
+    <description>Tras haber realizado un usuario una primera compra en tu eCommerce, ¿sabes qué estrategia tomar de cara a conseguir la segunda venta de ese mismo cliente?</description>
+     <pubDate>Tue, 23 Jun 2020 10:56:24 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/segunda-venta</guid>
+  </item>
+  <item>
+    <title>Transformación digital: ¿cómo se ha visto favorecida por la crisis del COVID-19?</title>
+    <link>https://www.prestashop.com/es/blog/transformacion-digital</link>
+    <description>¿Sabes qué es la transformación digital y cómo le está afectando positivamente la reciente crisis del COVID-19?</description>
+     <pubDate>Mon, 22 Jun 2020 11:24:42 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/transformacion-digital</guid>
+  </item>
+  <item>
+    <title>¿Cuáles son los pilares del SEO fundamentales para un eCommerce? </title>
+    <link>https://www.prestashop.com/es/blog/pilares-del-seo</link>
+    <description>¿Conoces los pilares SEO fundamentales que sustentan una estrategia de posicionamiento para una tienda online?</description>
+     <pubDate>Fri, 19 Jun 2020 18:50:55 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/pilares-del-seo</guid>
+  </item>
+  <item>
+    <title>La importancia del precio como estrategia de venta online en una tienda online</title>
+    <link>https://www.prestashop.com/es/blog/importancia-del-precio</link>
+    <description>¿Conoces la verdadera importancia del precio dentro de la estrategia de ventas de tu tienda online?</description>
+     <pubDate>Fri, 19 Jun 2020 09:00:33 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/importancia-del-precio</guid>
+  </item>
+  <item>
+    <title>¿Qué es la expedición de pedidos en el ámbito del eCommerce y en qué consiste?</title>
+    <link>https://www.prestashop.com/es/blog/expedicion-de-pedidos</link>
+    <description>¿Sabes qué es la zona de expedición de pedidos de un negocio? ¿tienes un lugar habilitado para ello?</description>
+     <pubDate>Tue, 16 Jun 2020 22:18:18 +0200</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/expedicion-de-pedidos</guid>
+  </item>
+  <item>
+    <title>¿Qué es el ticket medio en eCommerce y cómo aumentarlo?</title>
+    <link>https://www.prestashop.com/es/blog/ticket-medio</link>
+    <description>¿Sabes qué es el ticket medio de tu tienda online? ¿Te has parado a calcularlo y conocer a ciencia cierta si tu negocio es realmente rentable?</description>
+     <pubDate>Thu, 11 Jun 2020 07:55:57 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/ticket-medio</guid>
+  </item>
+  <item>
+    <title>PrestaShop (e)Commerce Week: semana internacional de conferencias online</title>
+    <link>https://www.prestashop.com/es/blog/prestashop-ecommerce-week</link>
+    <description>Como socio privilegiado de la transición digital de las empresas, PrestaShop se complace en organizar la PrestaShop (e)Commerce Week.</description>
+     <pubDate>Wed, 10 Jun 2020 17:56:57 +0200</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/prestashop-ecommerce-week</guid>
+  </item>
+  </channel>
+</rss>
